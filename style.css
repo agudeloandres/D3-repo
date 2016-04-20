@@ -1,0 +1,63 @@
+.title
+{
+color:red;
+font-size: 50px;
+text-align: center;	
+}
+
+.description
+{
+	color: rgb(169,169,169);
+	font-size: 35px;	
+	
+	border-left: 10 px solid blue;
+	padding-: 20px;
+	background-color: yellow;
+	width:400px;
+	margin:20px;
+
+}
+
+.image
+{
+	width:100px;
+}
+
+.topgun
+{
+	width:200px;
+}
+
+.chart{
+	width: 400px;
+	height: 300px;
+}
+
+.circle{
+	stroke:green;
+	fill:yellow;
+	 stroke-width: 5;
+}
+
+.polygon{
+	width:100%;
+	height: 100%;
+	fill:purple;
+    stroke:lime;
+    stroke-width:10;
+    fill-rule:evesnodd;
+}
+
+.gradient{
+	offset:0%;
+	stop-color:rgb(255,255,0);
+	stop-opacity:1; 
+}
+
+.gradient2{
+	offset:100%;
+	stop-color:rgb(255,255,0);
+	stop-opacity:1; 
+}
+
+
